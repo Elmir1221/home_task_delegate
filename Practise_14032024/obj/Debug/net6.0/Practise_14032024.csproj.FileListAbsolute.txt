@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\bin\Debug\net6.0\Practise_14032024.exe
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\bin\Debug\net6.0\Practise_14032024.deps.json
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\bin\Debug\net6.0\Practise_14032024.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\bin\Debug\net6.0\Practise_14032024.dll
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\bin\Debug\net6.0\Practise_14032024.pdb
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.dll
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\refint\Practise_14032024.dll
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.pdb
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\Practise_14032024.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\Practise_14032024\obj\Debug\net6.0\ref\Practise_14032024.dll
